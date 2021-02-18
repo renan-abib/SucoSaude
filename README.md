@@ -8,17 +8,17 @@ Pedido de suco por mensagens de texto na página do SucoSaúde. O chatbot inform
 
 
 ## Serviços:
-* Watson Assistant:
+* ### Watson Assistant:
 Descrição: permite que você construa interfaces de conversação em qualquer aplicativo, dispositivo ou canal.
 Link: https://cloud.ibm.com/catalog/services/watson-assistant
 Aplicação: os clientes enviam seus pedidos de suco pelo Watson Assistant, que responde o tempo de preparo e o preço do pedido.
 
-* IBM Cloud Object Storage:
+* ### IBM Cloud Object Storage:
 Descrição: serviço de armazenamento em nuvem altamente escalável que foi projetado para a alta durabilidade, a resiliência e a segurança. Permite o armazenamento, gerenciamento e acesso a dados por meio do portal de autoatendimento e das APIs RESTful.
 Link: https://cloud.ibm.com/catalog/services/cloud-object-storage
 Aplicação: os dados referentes aos sucos, incluindo a quantidade de frutas disponíveis, ficam armazenados para consulta do chatbot no momento de efetuar um pedido.
 
-* Push Notifications:
+* ### Push Notifications:
 Descrição: fornece um serviço de push unificado para enviar notificações em tempo real para aplicativos móveis e da web. O serviço fornece a capacidade de personalizar e enviar notificações a um segmento de usuários, a um único usuário ou fazer uma transmissão para todos os usuários.
 Link: https://cloud.ibm.com/catalog/services/push-notifications
 Aplicação: notificações push são enviadas aos usuários quando o pedido realizado com o chatbot estiver finalizado.
